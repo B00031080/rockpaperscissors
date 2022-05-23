@@ -77,7 +77,7 @@
 		padding: 5px;
 	}
 </style>
-<h1 class="uppercase text-gray-100 bg-blue-500">Let's play Rock paper Scissors</h1>
+<h1 class="uppercase text-gray-100 bg-green-500">Let's play Rock paper Scissors</h1>
 <div class="scores">
 	<h4>Score</h4>
 	<h5>{playerScore} for you</h5>
